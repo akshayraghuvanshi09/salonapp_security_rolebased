@@ -1,0 +1,16 @@
+
+S
+java:S5411M"(Use a primitive boolean expression here.(‡Φ…²HRMINORZ
+CODE_SMELL
+
+java:S1192c"ZDefine a constant instead of duplicating this literal "Error: Role is not found." 4 times.(ΙÿΚ–ωÿÿÿÿHRCRITICALZ
+CODE_SMELL
+S
+java:S5411S"(Use a primitive boolean expression here.(‰ΣHRMINORZ
+CODE_SMELL
+T
+java:S14527"&Remove usage of generic wildcard type.(—­θ€H"RCRITICALZ
+CODE_SMELL
+Y
+java:S1452L"&Remove usage of generic wildcard type.(ιγ°ιϊÿÿÿÿH#RCRITICALZ
+CODE_SMELL

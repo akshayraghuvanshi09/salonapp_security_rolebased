@@ -1,0 +1,16 @@
+package com.salon.service;
+
+import java.util.List;
+
+import com.salon.model.Employee;
+
+public interface EmployeeService {
+
+	Employee saveEmployee(Employee employee);
+
+	List<Employee> getEmployees();
+
+	Employee getEmployeeById(Long id);
+
+	void deleteEmployee(Long id);
+}

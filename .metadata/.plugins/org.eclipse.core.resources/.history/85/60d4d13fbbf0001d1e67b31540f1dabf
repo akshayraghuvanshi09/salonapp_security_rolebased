@@ -1,0 +1,15 @@
+package com.salon;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+
+@ComponentScan({"com.security.library","com.auth.service"})
+@SpringBootApplication
+public class SalonServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SalonServiceApplication.class, args);
+	}
+
+}

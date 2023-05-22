@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\spring-boot-spring-security-jwt-authentication-master\.metadata\.plugins\org.eclipse.jdt.core
+282100564.index
+1865797976.index
+3124090304.index
+2559385669.index
+2632992487.index
